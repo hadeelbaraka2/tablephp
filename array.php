@@ -1,4 +1,6 @@
 <?php
+//رابط الملف على GitHub 
+//https://github.com/hadeelbaraka2/tablephp/edit/main/array.php
 $students = [
     [
         'stdNo' => '20003',
@@ -110,3 +112,4 @@ function gpaBadge($g){
 </div>
 </body>
 </html>
+
